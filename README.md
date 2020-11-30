@@ -10,7 +10,7 @@ Repository Table of Contents
     
   Develop Folder 
    - Image folder - contains all images used in html
-   -style.css file
+   - style.css file
    
 ![demo](https://user-images.githubusercontent.com/74063810/100565429-98cab400-3291-11eb-926d-686edef09dd7.png)
 
