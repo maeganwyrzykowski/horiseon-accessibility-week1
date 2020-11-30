@@ -4,13 +4,13 @@ This site desribes the efforts that Horiseon Social Solution Services, Inc. offe
 
 Repository Table of Contents
   Main Reposistory
-   - Images Folder- folder with style elements
+   - Develop Folder- folder with style elements
    - index.html - code for website
    - README - descption of project
-   - style.css
     
-  ImagesFolder 
+  Develop Folder 
    - Image folder - contains all images used in html
+   -style.css file
    
 ![demo](https://user-images.githubusercontent.com/74063810/100565429-98cab400-3291-11eb-926d-686edef09dd7.png)
 
