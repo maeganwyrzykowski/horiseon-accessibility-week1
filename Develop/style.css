@@ -52,25 +52,23 @@ p {
     font-size: 16px;
 }
 
-/*main image style*/
 .hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
 
 
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/*search engine optimization section grouped*/
-.search-engine-optimization {
+
+.mission {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -79,63 +77,26 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.mission img{
     max-height: 200px;
-    float: left;
-    margin-right: 25px;
 }
 
-.search-engine-optimization h2 {
+.mission h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-
-/*online reputation management section grouped*/
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+.float-left {
+    float: left;
+    margin-right: 25px;
 }
 
-.online-reputation-management img {
-    max-height: 200px;
+.float-right {
     float: right;
     margin-left: 25px;
 }
 
-.online-reputation-management h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
-
-/*social media marketing section grouped*/
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-    float: left;
-    margin-right: 25px;
-}
-
-.social-media-marketing h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-
-/*right bar section*/
 .aside {
     margin-right: 20px;
     padding: 20px;
@@ -147,54 +108,17 @@ p {
     background-color: #2589bd;
 }
 
-
-/*lead generation section grouped*/
-.aside-lead-generation {
+.benefit {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.aside-lead-generation h3 {
+.benefit h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.aside-lead-generation img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-
-/*brand awareness section grouped*/
-.aside-brand-awareness {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-.aside-brand-awareness h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.aside-brand-awareness img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-  
-
-/*cost management section grouped*/
-.aside-cost-management {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.aside-cost-management h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.aside-cost-management img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
