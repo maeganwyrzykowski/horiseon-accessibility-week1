@@ -7,13 +7,11 @@ Repository Table of Contents
    - Develop Folder- folder with style elements
    - index.html - code for website
    - README - descption of project
+   - style.css
     
   Develop Folder 
    - Image folder - contains all images used in html
-   - style.css 
-   - CSS code for website
-
-
+   
 ![demo](https://user-images.githubusercontent.com/74063810/100565429-98cab400-3291-11eb-926d-686edef09dd7.png)
 
   What I fixed
