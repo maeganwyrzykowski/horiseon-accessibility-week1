@@ -23,4 +23,4 @@ Repository Table of Contents
    - Code was cleaned up and ordered to follow a logical and sequential order
    - Alt tags were added to images
    - CSS file was cleaned up for easy readibility and flow
-   - 
+   
